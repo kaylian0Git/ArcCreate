@@ -581,12 +581,12 @@ Compose:
       Actions:
         AddGroup: Ajouter un groupe
         DeleteGroup: Supprimer un groupe
-        AddEvent: Ajouter un événement
-        DeleteEvent: Enlever un événement
+        AddEvent: <size=10.5>Ajouter évén.
+        DeleteEvent: <size=10.5>Enlever évén.
         AutoReload: Recharger automatiquement
         GenerateEmmyLua: Générer EmmyLua
         Reload: Recharger
-        FreeCamera: Caméra libre
+        FreeCamera: <size=11>Caméra libre
       CameraView:
         Default: Vue par défaut
         Stationary: Vue stationnaire
